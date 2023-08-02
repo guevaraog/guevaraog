@@ -1,4 +1,4 @@
-<h1>Hi, I'm Herson, an <a href="https://www.linkedin.com/in/herson-guevara-29ab3127b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Herson, an <a href="https://www.linkedin.com/in/herson-guevara-29ab3127b/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
